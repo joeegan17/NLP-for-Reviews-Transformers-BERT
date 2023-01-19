@@ -3,4 +3,4 @@ The preproccessing for those models is somewhat different than for the others, s
 
 The other models were Logistic Regression, Kernel SVMs, and a multi-layered perceptron neural network from scikitlearn
 
-Note that there are no labels for the test data. The test predictions were evaluated via submissions to the class Gradescope site. The transformer models were best in class by far.
+Note that there are no labels for the test data. The test predictions were evaluated via submissions to the class Gradescope site. I used BERT to win the class competition for accuracy and AUROC.
